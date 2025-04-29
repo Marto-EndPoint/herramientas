@@ -1,6 +1,6 @@
 # Herramientas
 
-Este repositorio contiene una colección de herramientas y scripts desarrollados en **Python**, **Bash** y **Arduino** para diversas tareas de automatización, administración de sistemas, análisis de datos y control de dispositivos.
+Este repositorio contiene una colección de herramientas y scripts desarrollados por mi en **Python**, **Bash** y **Arduino** para diversas tareas de automatización, administración de sistemas, análisis de datos y control de dispositivos.
 
 ## Descripción
 
