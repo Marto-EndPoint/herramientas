@@ -9,3 +9,6 @@ Cada conjunto de herramientas está organizado por tipo de lenguaje y plataforma
 - **Python**: Scripts y herramientas para tareas automatizadas, análisis y manipulación de datos, interfaces de usuario, entre otros.
 - **Bash**: Scripts útiles para administración de sistemas, automatización de tareas en terminal, y otras herramientas de línea de comandos.
 - **Arduino**: Proyectos y código fuente para microcontroladores Arduino, junto con diagramas de conexión y ejemplos prácticos.
+---
+
+> Este repositorio está en constante crecimiento y representa mi camino de aprendizaje en el mundo de la automatización y creación de herramientas.
